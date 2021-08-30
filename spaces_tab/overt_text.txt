@@ -1,0 +1,27 @@
+My name is Rajeev Karuvath
+and this is my submission for CSEC.750.Covert.Communications
+Please visit my website https://rajeevkr.me
+Here are my skills:
+Java
+Python
+TSQL
+Typescript
+Bash
+Powershell
+CSS
+JavaScript
+Spring
+Django
+Angular 6
+ptf
+OpenVAS
+Nessus
+faraday
+metasploit
+burpsuite
+wireshark
+hydra
+ghidra
+snort
+Ubuntu Server 18.04
+RHEL 7

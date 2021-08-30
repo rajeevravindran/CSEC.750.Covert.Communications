@@ -1,0 +1,12 @@
+Welcome to CSEC470 Covert Communications			  		
+
+We named it Covert 'Communications" because we wanted to cover the larger field which covert channels is a part.
+We will be exploring:
+	Covert channels		  	 	
+	Steganography		 			 
+	Subliminal channels		  	  
+	Use of cryptography 	     
+	History of covert channels and use		  		 
+	Implementation challenges		 				
+	Detection		 				
+	Prevention		  	  
